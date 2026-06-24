@@ -21,7 +21,7 @@ A plugin for the PC verison of Cars 2 that will allow you to select what languag
 - BrazilianPortuguese
 - Turkish
 
-**!VERY IMPORTANT INFORMATION!** 
+**VERY IMPORTANT INFORMATION** 
 In order for this plugin to work, you will need to install [Pentane](https://high-octane-dev.github.io/installation-and-setup/), the direct link will tell you how to step-by-step install it correctly. 
 
 After installing Pentane. Mention the the langselect.dll plugin inside `config.toml` like this : 
