@@ -28,4 +28,6 @@ After installing Pentane. Mention the the langselect.dll plugin inside `config.t
 
 `enabled_plugins = ["LangSelect.dll"]`
 
-Install the additional assets after for everything to work as intended, done!
+Install the additional assets after for everything to work as intended, done! 
+Contributors: [BlueDragon](https://github.com/BluedragonMask) 
+Special thanks to : Iseeva, DarthVader
