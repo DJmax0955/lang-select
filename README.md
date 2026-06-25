@@ -20,7 +20,6 @@ A plugin for the PC version of **Cars 2** that allows you to choose which langua
 * Greek
 * Finnish
 * Czech
-* Hungarian
 * Brazilian Portuguese
 * Turkish
 
