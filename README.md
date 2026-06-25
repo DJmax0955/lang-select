@@ -1,35 +1,57 @@
-# lang-select
-A plugin for the PC verison of Cars 2 that will allow you to select what language you want to play the game with.
-**LIST OF SUPPORTED LANGUAGES :** 
-- English
-- French
-- Italian
-- German
-- Spanish
-- Swedish
-- Dutch
-- Danish
-- Norwegian
-- Polish
-- Russian
-- Portuguese
-- Arabic
-- Greek
-- Finnish
-- Czech
-- Hungarian
-- BrazilianPortuguese
-- Turkish
+# Lang Select
 
-**VERY IMPORTANT INFORMATION** 
-In order for this plugin to work, you will need to install [Pentane](https://high-octane-dev.github.io/installation-and-setup/), the direct link will tell you how to step-by-step install it correctly. 
+A plugin for the PC version of **Cars 2** that allows you to choose which language to play the game in.
 
-After installing Pentane. Mention the the langselect.dll plugin inside `config.toml` like this : 
+## Supported Languages
 
-`enabled_plugins = ["LangSelect.dll"]`
+* English
+* French
+* Italian
+* German
+* Spanish
+* Swedish
+* Dutch
+* Danish
+* Norwegian
+* Polish
+* Russian
+* Portuguese
+* Arabic
+* Greek
+* Finnish
+* Czech
+* Hungarian
+* Brazilian Portuguese
+* Turkish
 
-Install the additional assets after for everything to work as intended, done! 
+## Download
 
-Contributors: [BlueDragon](https://github.com/BluedragonMask) 
+Download the latest version from the [Releases](https://github.com/DJmax0955/lang-select/releases/tag/1.0) page.
 
-Special thanks to : Iseeva, DarthVader
+## Installation
+
+### Requirements
+
+This plugin requires [Pentane](https://high-octane-dev.github.io/installation-and-setup/) installed to function correctly.
+
+### Setup
+After installing Pentane, add the plugin to your `config.toml` file:
+
+```toml
+enabled_plugins = ["LangSelect.dll"]
+```
+
+Then install the additional assets included with the releases package.
+
+Once that's done, you're ready to play and the plugin should work!
+
+## Credits
+
+### Contributors
+
+* BlueDragon
+
+### Special Thanks
+
+* Iseeva
+* DarthVader
